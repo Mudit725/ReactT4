@@ -1,0 +1,22 @@
+.user-details{
+  /* text-align: center; */
+  border: 1px solid red;
+  color: black;
+  padding-left: 3px;
+  margin: 10px;
+}
+
+.user-details th{
+  border-bottom: 1px solid white;
+}
+
+.user-details td{
+  padding: 5px;
+}
+.profile{
+  width: 7%;
+}
+
+.first-name{
+  width: 7%;
+}
